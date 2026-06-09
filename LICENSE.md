@@ -1,4 +1,4 @@
-# 
+最# 佳 JetBrains IntelliJ IDEA 脚本 Mac OS版 | 顶级 JetBrains IntelliJ IDEA 脚本 PC Windows版。集成 插件市场 和 架构设计器，跨平台性能最大化。
 
 
 
